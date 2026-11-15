@@ -1,0 +1,33 @@
+-> commond 
+
+1. what is your name 
+2. hello  or hye or hay
+3. how are you
+4. thanku or thank
+5. good morning
+6. time now
+7. shutdown
+8. play music or song 
+9. open google or google 
+10. youtube or  open youtube
+11. weather
+12. music from my laptop
+13. open task manager
+14. show system specs
+15. roll a die
+16. what's the date
+17. find SQL tutorial videos
+18. play Human Knowledge by Sophia Isla
+19. go offline, Jarvis
+20. tell me a joke
+21. recommend an anime
+22. I don't want to study
+23. do my homework
+24. play chess with me
+25. play a movie
+26. flip a coin
+27. rock paper scissors
+28. surprise me
+29. information about Himalaya Public School
+30. who is the principal of Himalaya Public School
+31. who is the head boy of the school

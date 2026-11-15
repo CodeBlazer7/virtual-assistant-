@@ -1,0 +1,9 @@
+pillow
+lxml>=5.0
+lxml_html_clean
+requests-html==0.10.0
+pyttsx3
+SpeechRecognition==3.8.1
+PyAudio>=0.2.14
+python-chess>=1.999
+reportlab>=5.0
